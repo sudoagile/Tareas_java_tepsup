@@ -1,0 +1,16 @@
+INSERT INTO Autores (Autor_ID, Nombre) VALUES
+(1, 'George Orwell'),
+(2, 'Jane Austen'),
+(3, 'Charlotte Bronte'),
+(4, 'Herman Melville'),
+(5, 'Bram Stoker'),
+(6, 'León Tolstói'),
+(7, 'F. Scott Fitzgerald'),
+(8, 'Charles Dickens'),
+(9, 'Mary Shelley'),
+(10, 'Miguel de Cervantes'),
+(11, 'Gustave Flaubert'),
+(12, 'Joseph Conrad'),
+(13, 'Oscar Wilde'),
+(14, 'H.G. Wells'),
+(15, 'Gaston Leroux');

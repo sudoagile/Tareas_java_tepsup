@@ -1,0 +1,4 @@
+CREATE TABLE Lectores (
+Lector_ID INT PRIMARY KEY,
+Nombre VARCHAR(255)
+);

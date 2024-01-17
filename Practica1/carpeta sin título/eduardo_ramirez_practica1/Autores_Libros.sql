@@ -1,0 +1,5 @@
+CREATE TABLE Autores_Libros (
+Autor_ID INT REFERENCES Autores(Autor_ID),
+ISBN VARCHAR(20) REFERENCES Libros(ISBN),
+PRIMARY KEY (Autor_ID, ISBN)
+);

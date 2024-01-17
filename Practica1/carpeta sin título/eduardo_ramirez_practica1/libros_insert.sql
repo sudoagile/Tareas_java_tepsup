@@ -1,0 +1,16 @@
+INSERT INTO Libros (ISBN, Titulo) VALUES
+('978-0451524935', '1984'),
+('978-0679783268', 'Orgullo y Prejuicio'),
+('978-0141439600', 'Jane Eyre'),
+('978-0486415864', 'Moby Dick'),
+('978-1503290563', 'Drácula'),
+('978-0140449266', 'Anna Karenina'),
+('978-0486292736', 'El Gran Gatsby'),
+('978-1853260414', 'Oliver Twist'),
+('978-0486280610', 'Frankenstein'),
+('978-1494404777', 'Don Quijote'),
+('978-1499636342', 'Madame Bovary'),
+('978-0486278075', 'El corazón de las tinieblas'),
+('978-0486292569', 'El retrato de Dorian Gray'),
+('978-0141442464', 'La guerra de los mundos'),
+('978-0486411095', 'El fantasma de la ópera');

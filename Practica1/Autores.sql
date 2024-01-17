@@ -1,0 +1,4 @@
+CREATE TABLE Autores (
+Autor_ID INT PRIMARY KEY,
+Nombre VARCHAR(255)
+);

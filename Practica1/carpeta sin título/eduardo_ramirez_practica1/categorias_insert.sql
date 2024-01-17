@@ -1,0 +1,16 @@
+INSERT INTO Categorias (Categoria_ID, Nombre) VALUES
+(1, 'Ciencia Ficción'),
+(2, 'Romance'),
+(3, 'Clásico'),
+(4, 'Horror'),
+(5, 'Literatura Peruana'),
+(6, 'Literatura Americana'),
+(7, 'Literatura Inglesa'),
+(8, 'Novela Histórica'),
+(9, 'Fantasía'),
+(10, 'Realismo'),
+(11, 'Aventura'),
+(12, 'Suspenso'),
+(13, 'Drama'),
+(14, 'Novela Psicológica'),
+(15, 'Misterio');
